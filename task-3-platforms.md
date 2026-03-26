@@ -1,0 +1,1 @@
+![solved a problem on HackerEarth](partA_coding_practice.png)
