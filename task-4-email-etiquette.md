@@ -45,14 +45,23 @@ SOCIAL MEDIA CHECKLIST
 
 DO's
 1: Think carefully before posting anything online, as it can stay permanently.
+
 2: Use strong, unique passwords and enable two-factor authentication.
+
 3: Verify information from reliable sources before sharing it.
+
 4: Maintain a respectful and professional tone in posts and comments.
+
 5: Regularly review and update your privacy settings.
+
 
 DON'T's
 1: Do not share sensitive personal information like phone number, address, or OTPs.
+
 2: Do not click on suspicious links or unknown attachments.
+
 3: Do not spread fake news, rumors, or unverified content.
+
 4: Do not engage in cyberbullying, trolling, or offensive discussions.
+
 5: Do not accept friend or follow requests from unknown individuals.

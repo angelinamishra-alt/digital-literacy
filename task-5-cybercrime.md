@@ -8,15 +8,23 @@ Such frauds happen mainly due to lack of awareness and trust in strangers online
 
 PART B - PREVENTION CHECKLIST:
 1: Never share your OTP, UPI PIN, or passwords with anyone
+
 2: Always verify unknown links before clicking
+
 3:Avoid downloading apps from untrusted sources
+
 4; Use strong passwords and enable two-factor authentication
+
 5: Do not trust strangers on social media or marketplaces
+
 6:Check website URLs carefully before entering details
+
 
  UPI / Financial Safety Tips
 7: Never enter your UPI PIN to receive money
+
 8: Do not scan QR codes sent by unknown people
+
  Report Cybercrime
 9: Report at: https://cybercrime.gov.in⁠�
    Call Helpline: 1930
